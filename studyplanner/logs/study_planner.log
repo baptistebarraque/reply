@@ -1,0 +1,95 @@
+2024-11-28 13:17:49,666 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 13:17:49,668 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 13:18:40,901 [INFO] __main__:142: Nouvelle tâche créée : mathématiques_0
+2024-11-28 13:20:51,814 [INFO] __main__:142: Nouvelle tâche créée : physique_quantique_1
+2024-11-28 13:23:12,986 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 13:23:12,988 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 13:23:37,561 [INFO] __main__:142: Nouvelle tâche créée : dessin_0
+2024-11-28 13:23:57,520 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 13:23:57,521 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 13:24:15,302 [INFO] __main__:142: Nouvelle tâche créée : maths_0
+2024-11-28 13:24:41,333 [INFO] __main__:142: Nouvelle tâche créée : dessin_1
+2024-11-28 13:49:46,371 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 13:49:46,372 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 13:50:06,686 [ERROR] src.ai_planner:44: Erreur lors de la génération du planning: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-11-28 13:50:11,104 [ERROR] src.ai_planner:44: Erreur lors de la génération du planning: 'NoneType' object has no attribute 'to_dict'
+2024-11-28 13:52:08,861 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 13:52:08,862 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 13:52:24,412 [ERROR] src.ai_planner:44: Erreur lors de la génération du planning: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-11-28 13:52:26,609 [ERROR] src.ai_planner:44: Erreur lors de la génération du planning: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2024-11-28 13:55:35,544 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 13:55:35,545 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 13:55:46,455 [ERROR] src.ai_planner:44: Erreur lors de la génération du planning: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-11-28 13:55:48,637 [ERROR] src.ai_planner:44: Erreur lors de la génération du planning: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-11-28 13:58:28,633 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 13:58:28,634 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 13:58:44,318 [ERROR] src.ai_planner:46: Erreur lors de la génération du planning: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-11-28 13:58:46,542 [ERROR] src.ai_planner:46: Erreur lors de la génération du planning: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-11-28 14:00:13,977 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 14:00:13,979 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 14:00:23,018 [ERROR] src.ai_planner:46: Erreur lors de la génération du planning: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-11-28 14:00:24,719 [ERROR] src.ai_planner:46: Erreur lors de la génération du planning: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-11-28 14:02:35,371 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 14:02:35,373 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 14:02:47,764 [ERROR] src.ai_planner:46: Erreur lors de la génération du planning: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-11-28 14:06:54,579 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 14:06:54,581 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 14:07:08,710 [ERROR] src.ai_planner:44: Erreur lors de la génération du planning: Expecting value: line 1 column 1 (char 0)
+2024-11-28 14:24:38,213 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 14:24:38,216 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 14:24:54,045 [ERROR] src.ai_planner:50: Erreur lors de la génération du planning: Expecting value: line 1 column 1 (char 0)
+2024-11-28 14:25:37,422 [ERROR] src.ai_planner:50: Erreur lors de la génération du planning: Expecting value: line 1 column 1 (char 0)
+2024-11-28 14:25:58,615 [ERROR] src.ai_planner:50: Erreur lors de la génération du planning: Expecting value: line 1 column 1 (char 0)
+2024-11-28 14:32:30,432 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 14:32:30,434 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 14:32:42,778 [ERROR] src.ai_planner:50: Erreur lors de la génération du planning: Expecting value: line 1 column 1 (char 0)
+2024-11-28 14:34:41,126 [ERROR] src.ai_planner:174: Erreur lors de la génération du planning hebdomadaire: Expecting value: line 1 column 1 (char 0)
+2024-11-28 14:36:33,433 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 14:36:33,435 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 14:36:46,936 [ERROR] __main__:151: Erreur lors de l'ajout de la tâche: Expecting value: line 1 column 1 (char 0)
+2024-11-28 14:36:57,068 [ERROR] __main__:55: Erreur lors de l'exécution: Expecting value: line 1 column 1 (char 0)
+2024-11-28 14:45:27,955 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 14:45:27,963 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 14:45:38,798 [ERROR] src.ai_planner:51: Erreur lors de la génération du planning: Expecting value: line 1 column 1 (char 0)
+2024-11-28 14:49:23,339 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 14:49:23,342 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 14:49:34,331 [ERROR] src.ai_planner:51: Erreur lors de la génération du planning: the JSON object must be str, bytes or bytearray, not OpenAIObject
+2024-11-28 14:50:03,464 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 14:50:03,466 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 14:50:12,927 [ERROR] src.ai_planner:51: Erreur lors de la génération du planning: the JSON object must be str, bytes or bytearray, not list
+2024-11-28 14:50:29,612 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 14:50:29,615 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 14:50:41,307 [ERROR] src.ai_planner:51: Erreur lors de la génération du planning: Expecting value: line 1 column 1 (char 0)
+2024-11-28 14:51:30,145 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 14:51:30,147 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 14:51:38,939 [ERROR] src.ai_planner:51: Erreur lors de la génération du planning: Expecting value: line 1 column 1 (char 0)
+2024-11-28 14:52:16,022 [INFO] config.config_loader:37: Système de logging initialisé
+2024-11-28 14:52:16,024 [INFO] config.config_loader:57: Préférences utilisateur chargées avec succès
+2024-11-28 14:52:25,574 [ERROR] src.ai_planner:51: Erreur lors de la génération du planning: Expecting value: line 1 column 1 (char 0)
