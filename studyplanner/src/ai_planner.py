@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 class AIPlannerService:
     def __init__(self, config):
         self.config = config
-        openai.api_key = ""
+        openai.api_key = "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"
 
     def generate_schedule(self, tasks: Dict[str, Task], new_task: Task) -> Optional[List[StudyBlock]]:
         """Génère un planning optimisé en utilisant l'IA"""
